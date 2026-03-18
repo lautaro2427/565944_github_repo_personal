@@ -11,6 +11,6 @@ numero1 = int(input("ingrese un numero : "))
 
 numero2 = int(input("ingrese un numero : "))
 
-suma = numero1 + numero2
+suma = numero1 * numero2
 
 print(f"el resultado de la suma es : {suma}")
